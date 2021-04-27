@@ -1,1 +1,4 @@
-Time Series Forecasting of superstore.xls dataset.
+Time Series Forecasting from superstore.xls dataset.
+
+## Note
+* Improve feature selection using RFE.
