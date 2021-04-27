@@ -1,4 +1,4 @@
 Time Series Forecasting from superstore.xls dataset.
 
-## Note
+## Todo
 * Improve feature selection using RFE.
