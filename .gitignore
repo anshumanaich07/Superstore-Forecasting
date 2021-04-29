@@ -2,3 +2,5 @@ dataset.zip
 archive.zip
 dataset/other
 .ipynb_checkpoints
+*.pdf
+*.py
